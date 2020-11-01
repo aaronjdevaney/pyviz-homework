@@ -1,6 +1,6 @@
 # pyviz-homework
-# San Francisco Real Estate Markey Dashboard
-## The Panel Dashboard displays the following to explore the San Francisco real estate market:
+# San Francisco Real Estate Market Dashboard
+## The Panel Dashboard displays the following tabs to explore the San Francisco real estate market:
 
 - Yearly Market Analysis
 - Neighborhood Market Analysis
